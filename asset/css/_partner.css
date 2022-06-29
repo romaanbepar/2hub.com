@@ -1,0 +1,41 @@
+.partnerDetails {
+  display: flex;
+
+  justify-content: center;
+
+  text-align: center;
+  /* padding: 260px 0px 100px 0px; */
+  flex-wrap: wrap;
+}
+
+.partnerText {
+  width: 378px;
+}
+
+.partnerText h3 {
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 150%;
+  padding-top: 32px;
+  padding-bottom: 10px;
+  text-align: center;
+  color: #191919;
+}
+
+.partnerText p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+  color: #464646;
+}
+
+.partnerText:last-child p {
+  max-width: 314px;
+  margin: auto;
+}
+
+.partnerBtn {
+  text-align: center;
+  padding-top: 49px;
+}

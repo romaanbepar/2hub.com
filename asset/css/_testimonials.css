@@ -1,0 +1,36 @@
+.testomonials {
+  background: linear-gradient(169.05deg, #003d56 33.73%, #003348 91.9%), #ffffff;
+}
+
+.testomonialsDetails {
+  display: flex;
+  align-items: center;
+  gap: 100px;
+}
+
+.testomonialsDetails .leftTestimonial {
+  width: 550px;
+  height: 300px;
+}
+
+.rightTestimonial h3 {
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 180%;
+  color: #ffffff;
+}
+
+.testomonials p {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 167%;
+  color: #ffffff;
+  padding-bottom: 32px;
+}
+
+.rightTestimonial strong {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 180%;
+  color: rgba(255, 255, 255, 0.8);
+}
