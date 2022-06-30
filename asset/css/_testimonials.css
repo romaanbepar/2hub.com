@@ -9,16 +9,16 @@
 }
 
 .testomonialsDetails .testimonialImage {
- max-width: 550px;
- width: 100%;
+  max-width: 550px;
+  width: 100%;
   height: 300px;
 }
 
-.testomonials label{
+.testomonials label {
   color: rgba(255, 255, 255, 0.8);
 }
 
-.testomonials h2{
+.testomonials h2 {
   color: #ffffff;
 }
 

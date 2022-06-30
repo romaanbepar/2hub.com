@@ -16,6 +16,7 @@ li {
   border-bottom: 2px solid transparent;
   padding: 0 4px 7px 4px;
   transition: 0.3s all ease-in-out;
+  cursor: pointer;
 }
 
 .services a:hover {
@@ -23,5 +24,4 @@ li {
   border-bottom-color: #fd6400;
   border-radius: 1.5px 1.5px 0px 0px;
   transition: 0.3s all ease-in-out;
-
 }

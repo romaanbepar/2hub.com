@@ -7,15 +7,15 @@ section {
   padding: 100px 0;
 }
 
-label {
+.heading label {
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   text-transform: uppercase;
-  color: #808080!important;
+  color: #808080;
 }
 
-h2 {
+.heading h2 {
   font-weight: 600;
   font-size: 40px;
   line-height: 150%;
