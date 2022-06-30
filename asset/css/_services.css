@@ -1,0 +1,27 @@
+.services ul {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 24px;
+}
+
+li {
+  list-style: none;
+}
+
+.services a {
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 150%;
+  color: #464646;
+  border-bottom: 2px solid transparent;
+  padding: 0 4px 7px 4px;
+  transition: 0.3s all ease-in-out;
+}
+
+.services a:hover {
+  font-weight: 600;
+  border-bottom-color: #fd6400;
+  border-radius: 1.5px 1.5px 0px 0px;
+  transition: 0.3s all ease-in-out;
+
+}

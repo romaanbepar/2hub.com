@@ -2,6 +2,10 @@
 @import "_common.css";
 @import "_partner.css";
 @import "_testimonials.css";
+@import "_team.css";
+@import "_aboutUs.css";
+@import "_faq.css";
+@import "_services.css";
 
 * {
   margin: 0;

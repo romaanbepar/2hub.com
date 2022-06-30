@@ -8,12 +8,21 @@
   gap: 100px;
 }
 
-.testomonialsDetails .leftTestimonial {
-  width: 550px;
+.testomonialsDetails .testimonialImage {
+ max-width: 550px;
+ width: 100%;
   height: 300px;
 }
 
-.rightTestimonial h3 {
+.testomonials label{
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.testomonials h2{
+  color: #ffffff;
+}
+
+.testimonialContent h3 {
   font-weight: 500;
   font-size: 22px;
   line-height: 180%;
@@ -28,7 +37,7 @@
   padding-bottom: 32px;
 }
 
-.rightTestimonial strong {
+.testimonialContent span {
   font-weight: 400;
   font-size: 16px;
   line-height: 180%;
